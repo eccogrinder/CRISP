@@ -1,10 +1,14 @@
 # CRISP - Collusion-Resistant Impartial Selection Protocol
 
-CRISP (Collusion-Resistant Impartial Selection Protocol) is an integral part of the Enclave protocol, designed to redefine the landscape of privacy and security in digital decision-making. Incorporating cutting-edge technologies such as Fully Homomorphic Encryption (FHE), threshold cryptography, and zero-knowledge proofs (ZKPs), CRISP enables secure and anonymous voting mechanisms. Our protocol upholds the sanctity of each individual vote while safeguarding voter anonymity, establishing a new standard for governance and decision-making platforms.
+CRISP (Collusion-Resistant Impartial Selection Protocol) is a groundbreaking privacy tool for secure, encrypted voting. Built with advanced encryption enabled by the Enclave protocol (FHE, ZKP, threshold cryptography), CRISP ensures verifiable results while maintaining voter confidentiality, shielding governance and decision-making systems against collusion and tampering.
 
 ## Why CRISP?
 
-In our increasingly digitalized world, privacy, security, and information integrity are of paramount concern. CRISP is a pivotal innovation, crafted to counteract collusion, address governance vulnerabilities, and ensure data confidentiality. By establishing a secure, unbiased decision-making forum, CRISP empowers individuals and entities to engage in governance and other sensitive activities with confidence. This approach nurtures fairness, transparency, and trust within digital infrastructures.
+In a digital age marked by increasing concerns over data privacy, security, and computational integrity, ensuring the integrity and confidentiality of voting systems is crucial. CRISP provides a secure, innovative solution that protects against collusion, mitigates governance vulnerabilities, and preserves voter confidentiality, which is essential for trustworthy governance and decision-making processes in both traditional and blockchain-based systems.
+
+## Who is CRISP for?
+
+CRISP is designed for web2 and web3 organizations that require secure and private voting mechanisms. This includes onchain entities (e.g. DAOs), corporations, government bodies, nonprofits, educational institutions, and any other organization that seeks to enhance their decision-making systems with robust, verifiable, and confidential voting protocols.
 
 ## Project Structure
 
